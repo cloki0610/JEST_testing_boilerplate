@@ -1,0 +1,23 @@
+{
+  "name": "jest_testing_boilerplate",
+  "version": "1.0.0",
+  "description": "![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cloki0610/JEST_testing_boilerplate.git"
+  },
+  "author": "C.Loki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cloki0610/JEST_testing_boilerplate/issues"
+  },
+  "homepage": "https://github.com/cloki0610/JEST_testing_boilerplate#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^27.3.1"
+  }
+}
